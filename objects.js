@@ -1,5 +1,5 @@
 var playlist = {
-  ['My Bloody Valentine']: 'Venice Bitch'
+  ['My Bloody Valentine']: 'Sometimes'
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
