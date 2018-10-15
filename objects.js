@@ -1,5 +1,5 @@
 var playlist = {
-  artistName: songTitle
+  lanaDelRey: "Venice Bitch",
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
